@@ -1,0 +1,10 @@
+C:\Users\salam salman\Desktop\projj2\projj2\bin\Debug\projj2.exe.config
+C:\Users\salam salman\Desktop\projj2\projj2\bin\Debug\projj2.exe
+C:\Users\salam salman\Desktop\projj2\projj2\bin\Debug\projj2.pdb
+C:\Users\salam salman\Desktop\projj2\projj2\obj\Debug\projj2.csproj.AssemblyReference.cache
+C:\Users\salam salman\Desktop\projj2\projj2\obj\Debug\projj2.Form1.resources
+C:\Users\salam salman\Desktop\projj2\projj2\obj\Debug\projj2.Properties.Resources.resources
+C:\Users\salam salman\Desktop\projj2\projj2\obj\Debug\projj2.csproj.GenerateResource.cache
+C:\Users\salam salman\Desktop\projj2\projj2\obj\Debug\projj2.csproj.CoreCompileInputs.cache
+C:\Users\salam salman\Desktop\projj2\projj2\obj\Debug\projj2.exe
+C:\Users\salam salman\Desktop\projj2\projj2\obj\Debug\projj2.pdb
